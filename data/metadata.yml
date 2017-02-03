@@ -50,6 +50,7 @@ frameworks:
     - knotifyconfig
     - kfilemetadata
     - kcmutils
+    - libkcddb
 type: git
 url: http://anongit.kde.org/k3b
 buildsystem: cmake
