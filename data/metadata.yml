@@ -1,6 +1,7 @@
 name: k3b
 binary: k3b
-packages: ''
+packages:
+  - libsamplerate0-dev
   #app specifc
 frameworks:
   build_kf5: true
