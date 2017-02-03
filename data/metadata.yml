@@ -47,6 +47,9 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - knotifyconfig
+    - kfilemetadata
+    - kcmutils
 type: git
 url: http://anongit.kde.org/k3b
 buildsystem: cmake
